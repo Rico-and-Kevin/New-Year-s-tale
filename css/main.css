@@ -853,27 +853,27 @@ input[type='radio']:checked {
 }
 
 .item-1 {
-    background-image: url(../img/projects/елка1.png);
+    background-image: url(/img/projects/елка1.png);
     background-size: cover;
 }
 
 .item-2 {
-    background-image: url(../img/projects/елка2.png);
+    background-image: url(/img/projects/елка2.png);
     background-size: cover;
 }
 
 .item-3 {
-    background-image: url(../img/projects/елка3.png);
+    background-image: url(/img/projects/елка3.png);
     background-size: cover;
 }
 
 .item-4 {
-    background-image: url(../img/projects/елка4.png);
+    background-image: url(/img/projects/елка4.png);
     background-size: cover;
 }
 
 .item-5 {
-    background-image: url(../img/projects/елка5.png);
+    background-image: url(/img/projects/елка5.png);
     background-size: cover;
 }
 
@@ -1219,6 +1219,7 @@ input[type='radio']:checked {
 
 
 }
+
 
 
 
