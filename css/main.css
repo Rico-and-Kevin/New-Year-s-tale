@@ -249,7 +249,7 @@ html, body {
     align-items: center;
 
     background-color: var(--dark-bg);
-    background-image: url(/img/projects/фон_ёлка_1.png);
+    background-image: url("../img/projects/фон_ёлка_1.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -1217,5 +1217,6 @@ input[type='radio']:checked {
     .social__item {
         width: 28px;
     }
+
 
 }
