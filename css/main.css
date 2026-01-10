@@ -845,7 +845,6 @@ input[type='radio']:checked {
 
 .grid-item {
     aspect-ratio: 1;
-    background: #4a6cf7;
     border-radius: 10px;
     transition: 0.3s ease;
     transform-origin: center;
@@ -853,7 +852,7 @@ input[type='radio']:checked {
 }
 
 .item-1 {
-    background-image: url(/img/projects/елка1.png);
+    background-image: url(../img/projects/елка1.png);
     background-size: cover;
 }
 
@@ -1219,6 +1218,7 @@ input[type='radio']:checked {
 
 
 }
+
 
 
 
