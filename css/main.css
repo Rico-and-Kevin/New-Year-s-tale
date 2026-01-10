@@ -857,7 +857,7 @@ input[type='radio']:checked {
 }
 
 .item-2 {
-    background-image: url(../img/projects/елка2.png);
+    background-image: url("../img/projects/елка2.png");
     background-size: cover;
 }
 
@@ -1218,6 +1218,7 @@ input[type='radio']:checked {
 
 
 }
+
 
 
 
