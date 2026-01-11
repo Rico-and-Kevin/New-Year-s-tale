@@ -933,12 +933,12 @@ input[type='radio']:checked {
 }
 
 .item-7 {
-    background-image: url("./img/projects/kumade_item1.png");
+    background-image: url("../img/projects/kumade_item1.png");
     background-size: cover;
 }
 
 .item-8 {
-    background-image: url("/img/projects/kumade_item2.png");
+    background-image: url("../img/projects/kumade_item2.png");
     background-size: cover;
 }
 
@@ -1219,6 +1219,7 @@ input[type='radio']:checked {
 
 
 }
+
 
 
 
