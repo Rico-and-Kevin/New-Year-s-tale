@@ -1283,7 +1283,7 @@ input[type='radio']:checked {
 
     }
 
-    h3{
+    .overlay {
         font-size: 15px;
     }
     
@@ -1336,6 +1336,7 @@ input[type='radio']:checked {
     }
 
 }
+
 
 
 
