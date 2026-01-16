@@ -1143,6 +1143,21 @@ input[type='radio']:checked {
     margin-top: 0.5em;
 }
 
+.google {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.map {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+
 
 @media (max-width: 620px) {
 
@@ -1222,6 +1237,7 @@ input[type='radio']:checked {
 
 
 }
+
 
 
 
