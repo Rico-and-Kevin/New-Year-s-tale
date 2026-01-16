@@ -1280,7 +1280,14 @@ input[type='radio']:checked {
 
     .salads {
         flex-direction: column;
+
     }
+
+    .recipe {
+        width: 300px;
+        height: 400px;
+    }
+
 
     .grid {
     width: 400px;
@@ -1303,7 +1310,7 @@ input[type='radio']:checked {
 
 
     .google {
-        width: 450px;
+        width: 400px;
         height: 500px;
     }
 
@@ -1316,6 +1323,7 @@ input[type='radio']:checked {
         height: 400px;
     }
 }
+
 
 @media (min-height: 1000px) {
     .game {
