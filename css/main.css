@@ -417,7 +417,7 @@ html, body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    text-align: center;
+    text-align: flex-start;
 }
 
 .title-fire {
@@ -426,7 +426,7 @@ html, body {
     font-size: 40px;
     font-weight: 600;
     line-height: 1.3;
-    text-align: center;
+    text-align: flex-start;
 
     background-color: rgb(255, 178, 62);
     background-clip: text;
@@ -444,6 +444,9 @@ html, body {
     margin-top: 0.8em;
 }
 
+.project-fireworks p + img, .project-fireworks img + p {
+    margin-top: 1.4em;
+}
 
 .slider{
     box-sizing: border-box;
@@ -558,7 +561,7 @@ input[type='radio']:checked {
     display: flex;
     flex-direction: column;
     align-items: center;
-    text-align: center;
+    text-align: flex-start;
 }
 
 .title-japan {
@@ -605,7 +608,7 @@ input[type='radio']:checked {
     display: flex;
     flex-direction: column;
     align-items: center;
-    text-align: center;
+    text-align: flex-start;
     font-size: 100px;
 
     margin-bottom: 60px;
@@ -731,7 +734,7 @@ input[type='radio']:checked {
     display: flex;
     flex-direction: column;
     align-items: center;
-    text-align: center;
+    text-align: flex-start;
 }
 
 .title-salad {
@@ -815,7 +818,7 @@ input[type='radio']:checked {
     display: flex;
     flex-direction: column;
     align-items: center;
-    text-align: center;
+    text-align: flex-start;
 }
 
 .title-tree {
@@ -902,7 +905,7 @@ input[type='radio']:checked {
     display: flex;
     flex-direction: column;
     align-items: center;
-    text-align: center;
+    text-align: flex-start;
 }
 
 
@@ -958,7 +961,7 @@ input[type='radio']:checked {
     display: flex;
     flex-direction: column;
     align-items: center;
-    text-align: center;
+    text-align: flex-start;
 }
 
 
@@ -1009,7 +1012,7 @@ input[type='radio']:checked {
     display: flex;
     flex-direction: column;
     align-items: center;
-    text-align: center;
+    text-align: flex-start;
 }
 
 
@@ -1219,6 +1222,7 @@ input[type='radio']:checked {
 
 
 }
+
 
 
 
